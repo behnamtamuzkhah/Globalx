@@ -1,0 +1,37 @@
+{
+    "name": "GlobalX — Move Money Globally",
+    "short_name": "GlobalX",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0d0d2b",
+    "theme_color": "#1a1a6e",
+    "description": "Compare 30+ money transfer providers across 130+ currencies. Find the best exchange rates and lowest fees for international money transfers.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "categories": ["finance", "utilities"],
+    "lang": "en",
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
